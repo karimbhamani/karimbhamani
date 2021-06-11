@@ -36,7 +36,7 @@ I'm Kareem Hussain, a passionate self-taught Front End  web developer and a grad
   </a> 
   
   <a href="https://www.linkedin.com/feed/" target="_blank"> 
-  <img src="https://github.com/karimbhamani/karimbhamani/blob/main/vs%20code.pnghttps://github.com/karimbhamani/karimbhamani/blob/main/vs%20code.png" alt="vs code" width="40" height="40"/>
+  <img src="https://github.com/karimbhamani/karimbhamani/blob/main/vs%20code.png" alt="vs code" width="40" height="40"/>
   </a> 
   
 </p>
