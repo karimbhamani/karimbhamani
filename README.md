@@ -1,5 +1,4 @@
 
-![](https://github.com/karimbhamani/karimbhamani/blob/main/bg%20cover.jpg)
 
 ### Hi there 👋
 
