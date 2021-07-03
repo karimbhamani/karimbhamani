@@ -13,7 +13,7 @@ I'm Kareem Hussain, a passionate Front-End Web Developer and a graduate student 
 
 - 📫 How to reach me **karim19bhamani@gmail.com**
 
-- ⚡ Fun fact **I think I am student.**
+- ⚡ Fun fact **I think I am a learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
