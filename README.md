@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-![alt text](https://quotefancy.com/media/wallpaper/3840x2160/50629-Albert-Einstein-Quote-The-true-sign-of-intelligence-is-not.jpg)
+![alt text](https://quotefancy.com/media/wallpaper/3840x2160/50629-Albert-Einstein-Quote-The-true-sign-of-intelligence-is-not.jpg {width=100% height=400px})
 
 I'm Kareem Hussain, a passionate self-taught Front End  web developer and a graduate student from Hyderabad, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.
 
